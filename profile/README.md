@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    *Coopérative bordelaise de services informatiques*
+    <strong>Coopérative bordelaise de services informatiques</strong>
 </div>
 
 Nous sommes une société coopérative d'intérêt collectif spécialisée dans le conseil, le développement et l'hébergement de services informatiques.
@@ -12,7 +12,7 @@ Entreprise démocratique à taille humaine, nous prenons le temps de travailler 
 
 ---
 <div align="center">
-    *Software development and services cooperative in Bordeaux, France*
+    <strong>Software development and services cooperative in Bordeaux, France</strong>
 </div>
 
 We are a cooperative company of collective interest focused on advice, development and hosting for softwares services and projects.
