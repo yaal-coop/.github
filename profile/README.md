@@ -1,6 +1,8 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/yaal-coop/.github/refs/heads/main/profile/yaal.svg" height="150" alt="Yaal Coop" />
+    <img src="https://raw.githubusercontent.com/yaal-coop/.github/refs/heads/main/profile/banner.png" alt="Yaal Coop" />
 </div>
+
+---
 
 <div align="center">
     <strong>Software development and services cooperative in Bordeaux, France</strong>
