@@ -11,7 +11,9 @@
 
 We are a cooperative company of collective interest focused on advice, development and hosting for softwares services and projects.
 
-Democratic company, human sized, we take time to work through the specific needs of each project to make them grow and prosper.
+Democratic company, human sized, we are specialized in Python software development.
+We are competent in backend, front and mobile.
+We have a certain expertise in authentication and provisioning methods, such as OpenID Connect, OAuth2 and SCIM.
 
 ---
 
@@ -22,4 +24,6 @@ Democratic company, human sized, we take time to work through the specific needs
 
 Nous sommes une société coopérative d'intérêt collectif spécialisée dans le conseil, le développement et l'hébergement de services informatiques.
 
-Entreprise démocratique à taille humaine, nous prenons le temps de travailler minutieusement sur chaque projet, pour les révéler grandement et durablement.
+Entreprise démocratique à taille humaine, nous sommes spécialisés dans le développement logiciel en Python.
+Nos compétences vont du backend, au front, au mobile.
+Nous avons une certaine expertise dans les méthodes d'authentification unique et de provisionnement, comme OpenID Connect, OAuth2 et SCIM.
